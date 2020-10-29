@@ -15,5 +15,5 @@ public class Greetings {
         else {
             System.out.println("Sorry! I didn't recognize your name. ");
         }
-    }
+    } 
 }
